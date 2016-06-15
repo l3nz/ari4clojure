@@ -1,6 +1,5 @@
 pom.xml
 pom.xml.asc
-*jar
 /lib/
 /classes/
 /target/
@@ -10,3 +9,7 @@ pom.xml.asc
 .lein-plugins/
 .lein-failures
 .nrepl-port
+pom.xml
+pom.xml.asc
+*.jar
+*.class
